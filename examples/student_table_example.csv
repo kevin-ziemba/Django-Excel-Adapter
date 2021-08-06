@@ -1,0 +1,8 @@
+This could be a header row with text at top of Excel file providing context.,,,,,,,,
+Or explain to how this plugin works for users.,,,,,,,,
+ID,Student ID,First Name,Last Name,join Date,Overall GPA,Student is banned?,Label,Deletion Tag
+1,20001,Albert,Apple,Sept 1 2020,4,,,
+2,20002,Bobby,Banana,Sept 1 2020,0,X,,
+3,21001,Claire,Cranberry,Sept 1 2021,3.1,,,
+4,21002,Diana,Dates,Sept 1 2021,2.7,,,
+5,21003,Elon,Egg,Sept 15 2021,3.6,,,
